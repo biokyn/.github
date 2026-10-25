@@ -6,7 +6,7 @@ BioKyn is an open-source bot-mitigation toolkit designed to help web application
 
 By using cryptographically signed, short-lived, context-bound tokens, BioKyn provides developers with a lightweight way to verify form submissions and introduce friction against automated abuse while keeping the verification infrastructure under their control.
 
-[**npm Package**](https://www.npmjs.com/package/@biokyn/core) · **[Source Code](https://github.com/biokyn/biokyn)** · **[Report an Issue](https://github.com/biokyn/biokyn/issue)**
+[**npm Package**](https://www.npmjs.com/package/@biokyn/core) · **[Source Code](https://github.com/biokyn/biokyn)** · **[Report an Issue](https://github.com/biokyn/biokyn/issues/new)**
 
 ---
 
