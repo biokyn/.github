@@ -15,10 +15,10 @@ BioKyn replaces "click all the traffic lights" with cryptographic proof. Visitor
 
 | | |
 |---|---|
-| 🔐 **Private by design** | RFC 9497 VOPRF tokens, no cookies, no fingerprinting |
-| ♿ **Accessible** | No pointer, vision or puzzle-solving required |
-| ⚡ **Drop-in** | Express and Next.js adapters, reCAPTCHA/Turnstile-compatible `/siteverify` |
-| 🏗️ **Production-ready** | Redis stores, fail-closed behavior, key rotation, signed releases |
+|  **Private by design** | RFC 9497 VOPRF tokens, no cookies, no fingerprinting |
+|  **Accessible** | No pointer, vision or puzzle-solving required |
+|  **Drop-in** | Express and Next.js adapters, reCAPTCHA/Turnstile-compatible `/siteverify` |
+|  **Production-ready** | Redis stores, fail-closed behavior, key rotation, signed releases |
 
 ## Get started
 
